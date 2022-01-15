@@ -2,6 +2,8 @@
 
 A Portable Development Environment With Nix Package Manager
 
+Inspiration taken from Jake Wiesler's Youtube series [Build A Portable Development Environment](https://www.youtube.com/playlist?list=PL1C97G3GhlHdANMFUIXTcFr14R7b7EBj9)
+
 ## Goals
 
 * Setup a development environment that can be reproduced on other machines
