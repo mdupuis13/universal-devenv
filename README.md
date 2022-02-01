@@ -16,6 +16,8 @@ Inspiration taken from Jake Wiesler's Youtube series [Build A Portable Developme
 
 * [Nix package manager](https://nixos.org/) from NixOs
 * [Zsh](https://www.zsh.org/) with [oh-my-zsh](https://ohmyz.sh/)
+  - spark script https://github.com/holman/spark.git
+    don't forget about .bash_functions to get sine_wave !
 * [neovim](https://neovim.io/)
 * GNU/stow ?
 
